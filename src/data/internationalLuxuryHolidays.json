@@ -1,0 +1,464 @@
+[
+  {
+    "id": "morocco-7n-cultural",
+    "title": "Magnificent Morocco: 7N Cultural Trail",
+    "tagline": "Imperial cities, mountain passes, and a square that wakes up at sunset.",
+    "country": "Morocco",
+    "countries": [
+      "Morocco"
+    ],
+    "region": "Africa",
+    "duration": "7N/8D",
+    "durationLabel": "7N/8D",
+    "themes": [
+      "Heritage & Culture"
+    ],
+    "bestMonths": "October–April",
+    "priceFrom": 83999,
+    "priceFromDisplay": "₹83,999",
+    "currency": "INR",
+    "scope": "international",
+    "type": "luxury",
+    "route": [
+      "Casablanca",
+      "Rabat",
+      "Fez",
+      "Beni Mellal",
+      "Marrakesh"
+    ],
+    "highlights": [
+      "Casablanca + Rabat",
+      "Fes spiritual capital",
+      "Marrakech Pearl of South"
+    ],
+    "itinerary": [
+      {
+        "title": "Arrive in Casablanca (D)",
+        "body": "Meet our local representative, transfer to your hotel, and settle in with dinner in Casablanca."
+      },
+      {
+        "title": "Casablanca to Rabat (1hr 15min)",
+        "body": "Visit Hassan II Mosque exterior, Mohamed V Square, Habbous Quarter, then continue to Rabat's Hassan Tower and Kasbah."
+      },
+      {
+        "title": "Casablanca – Meknes – Fez (3hr 15min)",
+        "body": "Stop at Volubilis and Meknes before reaching Fez, Morocco's cultural capital."
+      },
+      {
+        "title": "Full Day Exploration of Fez",
+        "body": "Walk Fez el-Bali, Medersas, Karaouine, Nejjarine Fountain, and artisan workshops."
+      },
+      {
+        "title": "Fez – Beni Mellal – Marrakesh",
+        "body": "Cross the Middle Atlas through Ifrane and Beni Mellal before entering Marrakesh."
+      },
+      {
+        "title": "Marrakesh sightseeing",
+        "body": "Explore Medersa Ben Youssef, Koutoubia, Bahia Palace, Menara Gardens, souks and Djemaa El Fna."
+      },
+      {
+        "title": "Marrakesh to Casablanca",
+        "body": "A relaxed morning before the drive back to Casablanca for a farewell dinner."
+      },
+      {
+        "title": "Casablanca departure",
+        "body": "Transfer to Mohammed V International Airport for your flight home."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Casablanca",
+        "name": "Kenzi Basma Hotel or similar"
+      },
+      {
+        "city": "Rabat",
+        "name": "Gardenia Boutique Hotel or similar"
+      },
+      {
+        "city": "Fez",
+        "name": "Riad Marjana Suites & Spa or similar"
+      },
+      {
+        "city": "Marrakesh",
+        "name": "Le Kech Boutique Hotel & Spa or similar"
+      }
+    ],
+    "inclusions": [
+      "Private air-conditioned vehicle with English-speaking driver",
+      "7 nights accommodation in selected 4-star hotels",
+      "Daily breakfast and dinner",
+      "Lunches during sightseeing days",
+      "Private guided city tours"
+    ],
+    "exclusions": [
+      "GST and TCS",
+      "Airfare and airport taxes",
+      "Visa fees",
+      "Personal expenses"
+    ],
+    "fieldNotes": [
+      "Carry small dirham notes in the medinas.",
+      "Friday afternoons run on prayer time.",
+      "The mint sprig at the Fez tannery is there for a reason."
+    ]
+  },
+  {
+    "id": "switzerland-8n-classic",
+    "title": "Stairway to Heaven Switzerland 8N",
+    "tagline": "Three lakes, two trains, alpine quiet.",
+    "country": "Switzerland",
+    "countries": [
+      "Switzerland"
+    ],
+    "region": "Europe",
+    "duration": "8N/9D",
+    "durationLabel": "8N/9D",
+    "themes": [
+      "Snow & Aurora",
+      "Honeymoon"
+    ],
+    "bestMonths": "May–September, December–March",
+    "priceFrom": 289000,
+    "priceFromDisplay": "₹2,89,000",
+    "currency": "INR",
+    "scope": "international",
+    "type": "luxury",
+    "route": [
+      "Zurich",
+      "Lucerne",
+      "Interlaken",
+      "Montreux",
+      "Glacier 3000"
+    ],
+    "highlights": [
+      "Lake Lucerne",
+      "Jungfraujoch option",
+      "Montreux promenade"
+    ],
+    "itinerary": [
+      {
+        "title": "Zurich arrival",
+        "body": "Arrive, transfer, and walk the old town at leisure."
+      },
+      {
+        "title": "Lucerne lakeside",
+        "body": "Bridge, lake, and optional Mount Titlis excursion."
+      },
+      {
+        "title": "Interlaken and Jungfrau",
+        "body": "Rail into the Bernese Oberland for glacier views."
+      },
+      {
+        "title": "Montreux finale",
+        "body": "Vineyards, lakefront drives, and a slow last dinner."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Lucerne",
+        "name": "Hotel Schweizerhof or similar"
+      },
+      {
+        "city": "Interlaken",
+        "name": "Victoria Jungfrau or similar"
+      }
+    ],
+    "inclusions": [
+      "Swiss rail pass guidance",
+      "Breakfast",
+      "Private design consultation"
+    ],
+    "exclusions": [
+      "Flights",
+      "Schengen visa",
+      "Optional excursions"
+    ],
+    "fieldNotes": [
+      "Rail seats should be reserved in peak season.",
+      "Mountain weather changes in minutes."
+    ]
+  },
+  {
+    "id": "kenya-6n-best-of",
+    "title": "Best of Kenya",
+    "tagline": "Migration weeks in the Mara, designed around the sightings calendar.",
+    "country": "Kenya",
+    "countries": [
+      "Kenya"
+    ],
+    "region": "Africa",
+    "duration": "6N/7D",
+    "durationLabel": "6N/7D",
+    "themes": [
+      "Wildlife & Safari"
+    ],
+    "bestMonths": "July–October, January–March",
+    "priceFrom": 245000,
+    "priceFromDisplay": "₹2,45,000",
+    "currency": "INR",
+    "scope": "international",
+    "type": "luxury",
+    "route": [
+      "Nairobi",
+      "Lake Naivasha",
+      "Masai Mara"
+    ],
+    "highlights": [
+      "Mara game drives",
+      "Lake Naivasha boat ride",
+      "Sundowner in the savannah"
+    ],
+    "itinerary": [
+      {
+        "title": "Nairobi arrival",
+        "body": "Meet your driver-guide and settle in after the flight."
+      },
+      {
+        "title": "Lake Naivasha",
+        "body": "Boat safari and optional Crescent Island walk."
+      },
+      {
+        "title": "Masai Mara",
+        "body": "Three nights of drives timed for light, crossings, and quiet corners."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Masai Mara",
+        "name": "Entim Mara or similar"
+      },
+      {
+        "city": "Naivasha",
+        "name": "Sopa Lodge or similar"
+      }
+    ],
+    "inclusions": [
+      "Private safari vehicle",
+      "Park fees",
+      "All meals on safari"
+    ],
+    "exclusions": [
+      "Flights",
+      "Kenya ETA",
+      "Balloon safari"
+    ],
+    "fieldNotes": [
+      "Migration sightings are natural, not scheduled.",
+      "Soft bags travel better than hard cases."
+    ]
+  },
+  {
+    "id": "iceland-7n-ring-of-wonders",
+    "title": "Iceland Ring of Wonders",
+    "tagline": "Ring road, aurora, the lit dark.",
+    "country": "Iceland",
+    "countries": [
+      "Iceland"
+    ],
+    "region": "Europe",
+    "duration": "7N/8D",
+    "durationLabel": "7N/8D",
+    "themes": [
+      "Snow & Aurora",
+      "Adventure"
+    ],
+    "bestMonths": "September–March",
+    "priceFrom": 385000,
+    "priceFromDisplay": "₹3,85,000",
+    "currency": "INR",
+    "scope": "international",
+    "type": "luxury",
+    "route": [
+      "Reykjavik",
+      "Golden Circle",
+      "Vik",
+      "Jokulsarlon",
+      "Akureyri"
+    ],
+    "highlights": [
+      "Aurora hunt",
+      "Black sand beach",
+      "Glacier lagoon"
+    ],
+    "itinerary": [
+      {
+        "title": "Reykjavik arrival",
+        "body": "Blue Lagoon option and city supper."
+      },
+      {
+        "title": "South Coast",
+        "body": "Waterfalls, black-sand beaches, and basalt columns."
+      },
+      {
+        "title": "Glacier lagoon",
+        "body": "Drive to Jokulsarlon and watch the ice drift."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Reykjavik",
+        "name": "The Reykjavik Edition or similar"
+      },
+      {
+        "city": "Vik",
+        "name": "Hotel Kria or similar"
+      }
+    ],
+    "inclusions": [
+      "Private routing",
+      "Breakfast",
+      "Aurora monitoring"
+    ],
+    "exclusions": [
+      "Flights",
+      "Schengen visa",
+      "Weather-related activity changes"
+    ],
+    "fieldNotes": [
+      "Aurora needs darkness and patience.",
+      "Wind can close roads quickly."
+    ]
+  },
+  {
+    "id": "france-italy-8n-discovery",
+    "title": "France & Italy Discovery",
+    "tagline": "Old cities, longer dinners, and two countries in one sweep.",
+    "country": "France + Italy",
+    "countries": [
+      "France",
+      "Italy"
+    ],
+    "region": "Europe",
+    "duration": "8N/9D",
+    "durationLabel": "8N/9D",
+    "themes": [
+      "Heritage & Culture",
+      "Multi-Country"
+    ],
+    "bestMonths": "April–October",
+    "priceFrom": 318000,
+    "priceFromDisplay": "₹3,18,000",
+    "currency": "INR",
+    "scope": "international",
+    "type": "luxury",
+    "route": [
+      "Paris",
+      "Nice",
+      "Florence",
+      "Rome"
+    ],
+    "highlights": [
+      "Paris private walk",
+      "Tuscan table",
+      "Roman twilight"
+    ],
+    "itinerary": [
+      {
+        "title": "Paris",
+        "body": "Arrive into Paris and begin with a designer-led neighbourhood walk."
+      },
+      {
+        "title": "Riviera",
+        "body": "Train south to Nice for markets, coastline and art stops."
+      },
+      {
+        "title": "Italy finale",
+        "body": "Florence and Rome with private guides and unhurried dinners."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Paris",
+        "name": "Hotel Madame Reve or similar"
+      },
+      {
+        "city": "Rome",
+        "name": "Chapter Roma or similar"
+      }
+    ],
+    "inclusions": [
+      "Breakfast",
+      "Intercity rail planning",
+      "Private guides"
+    ],
+    "exclusions": [
+      "Flights",
+      "Visa",
+      "City taxes"
+    ],
+    "fieldNotes": [
+      "Museum slots should be secured early.",
+      "August changes the rhythm of both countries."
+    ]
+  },
+  {
+    "id": "bali-6n-luxury-multihotel",
+    "title": "Beautiful Bali Luxury Multi-Hotel",
+    "tagline": "Overwater villas, warm tides, and the kind of quiet you only find at sea.",
+    "country": "Indonesia",
+    "countries": [
+      "Indonesia"
+    ],
+    "region": "Southeast Asia",
+    "duration": "6 Nights / 7 Days",
+    "durationLabel": "6 Nights / 7 Days",
+    "themes": [
+      "Beach & Islands",
+      "Honeymoon"
+    ],
+    "bestMonths": "April–October",
+    "priceFrom": 965,
+    "priceFromDisplay": "$965",
+    "currency": "USD",
+    "scope": "international",
+    "type": "luxury",
+    "route": [
+      "Ubud",
+      "Nusa Dua",
+      "Seminyak"
+    ],
+    "highlights": [
+      "Rice terrace mornings",
+      "Beach-club sunsets",
+      "Temple trail"
+    ],
+    "itinerary": [
+      {
+        "title": "Ubud arrival",
+        "body": "Check into the hills and begin with a quiet dinner."
+      },
+      {
+        "title": "Water temples",
+        "body": "Visit Tirta Empul, rice terraces, and artisan villages."
+      },
+      {
+        "title": "Coast finale",
+        "body": "Move to the beach for slower days and sunset dinners."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Ubud",
+        "name": "Maya Ubud or similar"
+      },
+      {
+        "city": "Nusa Dua",
+        "name": "The Apurva Kempinski or similar"
+      }
+    ],
+    "inclusions": [
+      "Private transfers",
+      "Breakfast",
+      "Temple route planning"
+    ],
+    "exclusions": [
+      "Flights",
+      "Visa on arrival",
+      "Optional water sports"
+    ],
+    "fieldNotes": [
+      "Traffic is part of Bali; plan around it.",
+      "Temple visits need covered shoulders and knees."
+    ]
+  }
+]

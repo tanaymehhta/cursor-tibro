@@ -1,0 +1,364 @@
+[
+  {
+    "id": "all-of-himachal-9n-summers-2026",
+    "title": "All of Himachal Pradesh (9 Nights)",
+    "tagline": "From Shimla to Manali — every peak, every valley.",
+    "country": "India",
+    "countries": [
+      "India"
+    ],
+    "region": "India",
+    "locationGroup": "Himachal Pradesh",
+    "duration": "9 Nights / 10 Days",
+    "durationLabel": "9 Nights / 10 Days",
+    "themes": [
+      "Mountains & Scenery",
+      "Adventure"
+    ],
+    "bestMonths": "April–June",
+    "priceFrom": 34000,
+    "priceFromDisplay": "₹34,000",
+    "currency": "INR",
+    "scope": "domestic",
+    "type": "luxury",
+    "route": [
+      "Shimla",
+      "Kufri",
+      "Manali",
+      "Atal Tunnel",
+      "Chandigarh"
+    ],
+    "highlights": [
+      "Mall Road evenings",
+      "Kufri ridge walks",
+      "Solang Valley drives"
+    ],
+    "itinerary": [
+      {
+        "title": "Arrive in Shimla",
+        "body": "Meet your Tibro driver and settle into the hills with a relaxed first evening."
+      },
+      {
+        "title": "Shimla and Kufri",
+        "body": "Walk colonial lanes, ride up to Kufri, and return for a slow dinner."
+      },
+      {
+        "title": "Manali by road",
+        "body": "Follow the Beas into Kullu valley and check in at Manali."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Shimla",
+        "name": "Oberoi Cecil or similar"
+      },
+      {
+        "city": "Manali",
+        "name": "Span Resort or similar"
+      }
+    ],
+    "inclusions": [
+      "Private air-conditioned vehicle",
+      "Daily breakfast",
+      "Tibro travel designer support"
+    ],
+    "exclusions": [
+      "Airfare",
+      "GST/TCS",
+      "Personal expenses"
+    ],
+    "fieldNotes": [
+      "Mountain roads reward early starts.",
+      "Carry a warm layer even in summer."
+    ]
+  },
+  {
+    "id": "all-of-sikkim-10n-summers-2026",
+    "title": "All of Sikkim (10 Nights)",
+    "tagline": "Gurudongmar, Yumthang, Darjeeling — all of the northeast in one sweep.",
+    "country": "India",
+    "countries": [
+      "India"
+    ],
+    "region": "India",
+    "locationGroup": "Sikkim & Darjeeling",
+    "duration": "10 Nights / 11 Days",
+    "durationLabel": "10 Nights / 11 Days",
+    "themes": [
+      "Mountains & Scenery",
+      "Wildlife & Safari"
+    ],
+    "bestMonths": "March–May, October–November",
+    "priceFrom": 67200,
+    "priceFromDisplay": "₹67,200",
+    "currency": "INR",
+    "scope": "domestic",
+    "type": "luxury",
+    "route": [
+      "Gangtok",
+      "Lachen",
+      "Lachung",
+      "Pelling",
+      "Darjeeling"
+    ],
+    "highlights": [
+      "Tshangu Lake",
+      "Yumthang Valley",
+      "Darjeeling tea country"
+    ],
+    "itinerary": [
+      {
+        "title": "Gangtok arrival",
+        "body": "Transfer from Bagdogra and acclimatise gently."
+      },
+      {
+        "title": "North Sikkim",
+        "body": "Drive into Lachen and Lachung for high-valley days."
+      },
+      {
+        "title": "Darjeeling finale",
+        "body": "Watch sunrise over Kanchenjunga before returning home."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Gangtok",
+        "name": "Mayfair Spa Resort or similar"
+      },
+      {
+        "city": "Darjeeling",
+        "name": "Glenburn Tea Estate or similar"
+      }
+    ],
+    "inclusions": [
+      "Private vehicle",
+      "Permits assistance",
+      "Daily breakfast"
+    ],
+    "exclusions": [
+      "Flights",
+      "Camera fees",
+      "Personal expenses"
+    ],
+    "fieldNotes": [
+      "Permits need clear ID copies.",
+      "Altitude changes are real; keep the pace kind."
+    ]
+  },
+  {
+    "id": "all-rajasthan-8n-winters-2526",
+    "title": "All of Rajasthan (8 Nights) — Winters 25-26",
+    "tagline": "Peak Rajasthan season. Eight nights. All five royal cities.",
+    "country": "India",
+    "countries": [
+      "India"
+    ],
+    "region": "India",
+    "locationGroup": "Rajasthan",
+    "duration": "8 Nights / 9 Days",
+    "durationLabel": "8 Nights / 9 Days",
+    "themes": [
+      "Heritage & Culture",
+      "Adventure"
+    ],
+    "bestMonths": "October–March",
+    "priceFrom": 42400,
+    "priceFromDisplay": "₹42,400",
+    "currency": "INR",
+    "scope": "domestic",
+    "type": "luxury",
+    "route": [
+      "Jaipur",
+      "Jodhpur",
+      "Jaisalmer",
+      "Udaipur"
+    ],
+    "highlights": [
+      "Amber Fort",
+      "Mehrangarh at sunset",
+      "Lake Pichola dinners"
+    ],
+    "itinerary": [
+      {
+        "title": "Jaipur arrival",
+        "body": "Begin with rose city bazaars and a palace dinner."
+      },
+      {
+        "title": "Jodhpur blue city",
+        "body": "Explore Mehrangarh, Toorji stepwell, and old city lanes."
+      },
+      {
+        "title": "Udaipur lakes",
+        "body": "Close with slow boat rides and lakefront hotels."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Jaipur",
+        "name": "Samode Haveli or similar"
+      },
+      {
+        "city": "Udaipur",
+        "name": "Fateh Prakash Palace or similar"
+      }
+    ],
+    "inclusions": [
+      "Boutique hotels",
+      "Daily breakfast",
+      "Private guides"
+    ],
+    "exclusions": [
+      "Monument tickets",
+      "Flights",
+      "GST/TCS"
+    ],
+    "fieldNotes": [
+      "Winter sunsets arrive early.",
+      "Palace hotels sell out quickly in December."
+    ]
+  },
+  {
+    "id": "all-of-kerala-6n-winters-2526",
+    "title": "All of Kerala (6 Nights)",
+    "tagline": "Tea hills, tiger territory, backwaters, and beach in six winter nights.",
+    "country": "India",
+    "countries": [
+      "India"
+    ],
+    "region": "India",
+    "locationGroup": "Kerala",
+    "duration": "6 Nights / 7 Days",
+    "durationLabel": "6 Nights / 7 Days",
+    "themes": [
+      "Wildlife & Safari",
+      "Beach & Islands"
+    ],
+    "bestMonths": "October–February",
+    "priceFrom": 30400,
+    "priceFromDisplay": "₹30,400",
+    "currency": "INR",
+    "scope": "domestic",
+    "type": "luxury",
+    "route": [
+      "Cochin",
+      "Munnar",
+      "Thekkady",
+      "Alleppey",
+      "Kovalam"
+    ],
+    "highlights": [
+      "Munnar tea slopes",
+      "Periyar spice walk",
+      "Private backwater cruise"
+    ],
+    "itinerary": [
+      {
+        "title": "Cochin arrival",
+        "body": "Watch the Chinese fishing nets and settle into Fort Kochi."
+      },
+      {
+        "title": "Munnar tea country",
+        "body": "Drive uphill for plantations, viewpoints, and cooler air."
+      },
+      {
+        "title": "Backwater houseboat",
+        "body": "Float through Alleppey before the beach finale."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Munnar",
+        "name": "Windermere Estate or similar"
+      },
+      {
+        "city": "Alleppey",
+        "name": "Premium houseboat"
+      }
+    ],
+    "inclusions": [
+      "Private car",
+      "Daily breakfast",
+      "Houseboat meals"
+    ],
+    "exclusions": [
+      "Flights",
+      "Optional Ayurveda",
+      "GST/TCS"
+    ],
+    "fieldNotes": [
+      "Houseboat standards vary; we inspect ours.",
+      "The best tea walks begin before the tour buses arrive."
+    ]
+  },
+  {
+    "id": "best-of-andaman-6n-winters-2526",
+    "title": "Best of Andaman (6 Nights) — Winters 25-26",
+    "tagline": "Six winter nights across Port Blair, Havelock, Neil, and Ross Island.",
+    "country": "India",
+    "countries": [
+      "India"
+    ],
+    "region": "India",
+    "locationGroup": "Andamans",
+    "duration": "6 Nights / 7 Days",
+    "durationLabel": "6 Nights / 7 Days",
+    "themes": [
+      "Beach & Islands",
+      "Heritage & Culture"
+    ],
+    "bestMonths": "November–April",
+    "priceFrom": 31800,
+    "priceFromDisplay": "₹31,800",
+    "currency": "INR",
+    "scope": "domestic",
+    "type": "luxury",
+    "route": [
+      "Port Blair",
+      "Havelock",
+      "Neil Island"
+    ],
+    "highlights": [
+      "Radhanagar Beach",
+      "Neil Island cycling",
+      "Cellular Jail light show"
+    ],
+    "itinerary": [
+      {
+        "title": "Port Blair arrival",
+        "body": "Transfer in and visit Cellular Jail if flight timings permit."
+      },
+      {
+        "title": "Havelock beaches",
+        "body": "Ferry to Havelock for two nights by the water."
+      },
+      {
+        "title": "Neil Island",
+        "body": "Slow down with beaches, coral viewpoints, and seafood dinners."
+      }
+    ],
+    "hotels": [
+      {
+        "city": "Havelock",
+        "name": "Barefoot or similar"
+      },
+      {
+        "city": "Neil Island",
+        "name": "SeaShell or similar"
+      }
+    ],
+    "inclusions": [
+      "Ferry tickets",
+      "Hotel breakfast",
+      "Transfers"
+    ],
+    "exclusions": [
+      "Flights",
+      "Scuba dives",
+      "Personal spends"
+    ],
+    "fieldNotes": [
+      "Ferry schedules shift with weather.",
+      "Network coverage is patchy; it is part of the point."
+    ]
+  }
+]
