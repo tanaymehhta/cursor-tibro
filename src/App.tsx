@@ -9,11 +9,20 @@ import { AboutPage, BlogPage, CareersPage, ContactPage, NotFoundPage, VisaPage }
 import { allTours, countryHubs, regions, slugify, collections } from './data/site'
 import { tradeFairPackages } from './data/tradeFairs'
 
-const generatedTourRoutes: RouteRecord[] = allTours.map((tour) => ({ path: `/luxury-holidays/${tour.id}`, element: <TourPage /> }))
-const generatedCountryRoutes: RouteRecord[] = countryHubs.map((hub) => ({ path: `/luxury-holidays/countries/${slugify(hub.country)}`, element: <CountryPage /> }))
-const generatedRegionRoutes: RouteRecord[] = regions.map((region) => ({ path: `/luxury-holidays/regions/${slugify(region)}`, element: <RegionPage /> }))
-const generatedCollectionRoutes: RouteRecord[] = collections.map(([name]) => ({ path: `/luxury-holidays/collections/${slugify(name)}`, element: <CollectionPage /> }))
-const generatedPackageRoutes: RouteRecord[] = tradeFairPackages.map((pkg) => ({ path: `/package/${pkg.id}`, element: <PackagePage /> }))
+const generatedTourRoutes: RouteRecord[] = allTours.map((tour) => ({ path: `/luxury-holidays/${tour.id}`, element: <TourPage tourId={tour.id} /> }))
+const generatedCountryRoutes: RouteRecord[] = countryHubs.map((hub) => {
+  const countrySlug = slugify(hub.country)
+  return { path: `/luxury-holidays/countries/${countrySlug}`, element: <CountryPage countrySlug={countrySlug} /> }
+})
+const generatedRegionRoutes: RouteRecord[] = regions.map((region) => {
+  const regionSlug = slugify(region)
+  return { path: `/luxury-holidays/regions/${regionSlug}`, element: <RegionPage regionSlug={regionSlug} /> }
+})
+const generatedCollectionRoutes: RouteRecord[] = collections.map(([name]) => {
+  const collectionSlug = slugify(name)
+  return { path: `/luxury-holidays/collections/${collectionSlug}`, element: <CollectionPage collectionSlug={collectionSlug} /> }
+})
+const generatedPackageRoutes: RouteRecord[] = tradeFairPackages.map((pkg) => ({ path: `/package/${pkg.id}`, element: <PackagePage packageId={pkg.id} /> }))
 
 export const routes: RouteRecord[] = [
   {

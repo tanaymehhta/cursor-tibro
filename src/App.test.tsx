@@ -13,12 +13,12 @@ describe('Tibro route registration', () => {
   it('renders a generated luxury tour page', async () => {
     const router = createMemoryRouter(routes, { initialEntries: ['/luxury-holidays/morocco-7n-cultural'] })
     render(<RouterProvider router={router} />)
-    expect(await screen.findByText(/Magnificent Morocco/i)).toBeInTheDocument()
+    expect(await screen.findByRole('heading', { name: /Magnificent Morocco/i })).toBeInTheDocument()
   })
 
   it('renders a trade fair package page', async () => {
     const router = createMemoryRouter(routes, { initialEntries: ['/package/itma-2027'] })
     render(<RouterProvider router={router} />)
-    expect(await screen.findByText(/ITMA 2026/i)).toBeInTheDocument()
+    expect(await screen.findByRole('heading', { name: /ITMA 2026/i })).toBeInTheDocument()
   })
 })
