@@ -23,6 +23,7 @@
 - The live reference contains hundreds of catalog records; this milestone ports representative domestic and international records plus generated templates for all added records.
 - Enquiry and career endpoints validate payloads but do not forward to CRM/email until secrets and destination are supplied.
 - No database migrations were added because the current API does not require persisted tables.
+- Vercel deploy is not completed from this VM because the CLI requires device authentication. The branch is pushed and ready for Vercel Git integration or an authenticated `vercel deploy`.
 
 ## Required Cursor/Vercel secrets
 
@@ -33,6 +34,7 @@
 - `SANITY_STUDIO_DATASET`
 - `DATABASE_URL` (local default: `postgres://tibro:tibro@localhost:5433/tibro`; production can be Neon)
 - Optional: `ENQUIRY_FORWARD_TO`
+- Vercel account/project authentication for CLI deployment, or connect this GitHub repo to a Vercel project.
 
 ## Recommended next agent tasks
 
