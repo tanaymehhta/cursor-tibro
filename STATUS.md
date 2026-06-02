@@ -6,6 +6,7 @@
 - Luxury/editorial home, luxury catalog, region/country/collection shelves, and generated individual tour pages.
 - Domestic and international luxury JSON catalogs using the observed live `/api/catalog` object-array shape. Schema changes: none after creation.
 - Trade fair listing and package detail pages with `.tf-plex` applied only on trade-fair surfaces.
+- Trade fair package data expanded from the live reference site for ITMA 2027, All in Print China 2026, Automechanika Frankfurt 2026, and CPHI Milan 2026, including hotels, city guides, inclusions/exclusions, FAQs, payment terms and venue metadata.
 - Knowledge tours, corporate tours, about, contact, visa, blog and careers top-level pages.
 - Sanity client queries and `studio/` schemas for tours, trade fair packages, pages and offices.
 - Express API in `server/` on port 3001 and Vercel serverless adapter in `api/`.
@@ -20,7 +21,7 @@
 ## Known gaps
 
 - Sanity content is CMS-ready but not connected to a private write token; static local data is used for production-safe rendering.
-- The live reference contains hundreds of catalog records; this milestone ports representative domestic and international records plus generated templates for all added records.
+- The live reference contains hundreds of luxury catalog records; this milestone ports representative domestic and international records plus generated templates for all added records.
 - Enquiry and career endpoints validate payloads but do not forward to CRM/email until secrets and destination are supplied.
 - No database migrations were added because the current API does not require persisted tables.
 - Vercel deploy is not completed from this VM because the CLI requires device authentication. The branch is pushed and ready for Vercel Git integration or an authenticated `vercel deploy`.

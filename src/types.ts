@@ -47,10 +47,44 @@ export interface TradeFairPackage {
   duration: string
   pricingFrom: string
   summary: string
+  tagline?: string
+  industry?: string
+  image?: string
+  venue?: string
+  venueAddress?: string
+  openingHours?: string
+  fairWebsite?: string
+  groupSize?: string | null
+  languageSupport?: string | null
+  flightFromIndia?: string | null
+  bestAirport?: string | null
+  paymentTerms?: string | null
+  cancellationPolicy?: string | null
+  priceNotes?: string | null
+  previousHighlights?: string | null
   facts: { label: string; value: string }[]
   whyAttend: string[]
   itinerary: TourDay[]
   testimonials: { quote: string; name: string }[]
+  hotels?: { name: string; location?: string; stars?: number; pricePerNight?: string }[]
+  inclusions?: string[]
+  exclusions?: string[]
+  faq?: { question: string; answer: string }[]
+  specialties?: string[]
+  relatedPackages?: string[]
+  searchKeywords?: string[]
+  chatbotPhrases?: string[]
+  visitorIndustries?: string[]
+  priceTiers?: { name: string; price: number | string }[]
+  cityGuide?: {
+    overview?: string
+    weather?: string
+    transport?: string
+    food?: string
+    currency?: string
+    safety?: string
+    mustSee?: string[]
+  }
 }
 
 export interface Office {
